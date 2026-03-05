@@ -1,0 +1,11 @@
+### USE CASE- 03
+
+#### CONCEPTS USED: 
+
+Loop (for loop) – Used to iterate through the characters of the string in reverse order. 
+
+String Immutability – In Java, String objects are immutable; every modification creates a new String object. 
+
+String Concatenation (+) – Used to build the reversed string character by character (introduced here to later discuss drawbacks). 
+
+equals() Method – Used to compare the actual content of two String objects instead of memory references.
